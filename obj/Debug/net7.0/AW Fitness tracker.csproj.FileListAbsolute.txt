@@ -1,0 +1,15 @@
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\bin\Debug\net7.0\AW Fitness tracker.exe
+c:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\bin\Debug\net7.0\AW Fitness tracker.deps.json
+c:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\bin\Debug\net7.0\AW Fitness tracker.runtimeconfig.json
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\bin\Debug\net7.0\AW Fitness tracker.dll
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\bin\Debug\net7.0\AW Fitness tracker.pdb
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.csproj.AssemblyReference.cache
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.AssemblyInfoInputs.cache
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.AssemblyInfo.cs
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.dll
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\refint\AW Fitness tracker.dll
+C:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.pdb
+c:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\AW Fitness tracker.genruntimeconfig.cache
+c:\Users\Ahmed\OneDrive\Desktop\AW Fitness tracker\obj\Debug\net7.0\ref\AW Fitness tracker.dll
